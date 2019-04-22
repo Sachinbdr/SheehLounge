@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4C93BD4E-2BA7-4763-BE54-1D3E209BD790",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "600030FB-1768-4968-A5A8-E547F9A9A0BF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "30C3C9EE-C171-4292-89F9-E2E214F3B869",
+    "height": 27,
+    "width": 45,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "557A49EE-54C2-4589-9D30-40A6A8483D8E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CFD38C3B-6B21-4B72-AE7F-E661690D26D1"
+    }
+  ],
+  "name": "Group 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9FC03316-EDE1-4493-BD1A-34FF46D6AE3B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 19.5,
+            "enabled": 1,
+            "modelID": "constraint_e42d5320-fe8b-40f2-baa4-86c2017038ce",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 31.64384
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_ca7bc3c2-9d09-4fef-aec4-3d77a6ec6e0d",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

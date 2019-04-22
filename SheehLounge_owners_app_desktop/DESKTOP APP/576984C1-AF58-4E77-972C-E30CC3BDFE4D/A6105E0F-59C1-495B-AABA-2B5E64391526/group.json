@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A6105E0F-59C1-495B-AABA-2B5E64391526",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 571,
+    "width": 867,
+    "x": 299.8322981366462,
+    "y": 535
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "ACFFC8E4-32B9-4D01-9986-7613C3BEC681"
+    },
+    {
+      "class": "text",
+      "id": "92F20CF3-5462-4038-898F-6268149C9A8D"
+    },
+    {
+      "class": "group",
+      "id": "4B266565-2234-49EA-88CC-3FA97C1ECFAA"
+    },
+    {
+      "class": "group",
+      "id": "1F870E0B-184C-416C-869B-4594C028BA73"
+    }
+  ],
+  "name": "# REVIEW AND COMMENTS",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "58352940-67C5-41E1-BE97-E9BC0CD951F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1BA23F3D-574E-4D3D-9558-D2242AB302C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0DD364C-E1AD-4D71-8D5A-891AE9AAD541",
+    "height": 404,
+    "width": 311,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EF6CCCC1-DF74-42B7-919B-0696AB11E95C"
+    },
+    {
+      "class": "bitmap",
+      "id": "9769EE0E-979F-4788-87BA-5D1D39EAA295"
+    },
+    {
+      "class": "rectangle",
+      "id": "EEAC9EF2-3018-4D4A-8C6A-D516C5F76366"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0DE59C85-FFD3-4D36-9CA7-82045D42C1AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "74FAFFC9-FE98-444D-B092-DE667699EC24"
+    }
+  ],
+  "name": "EVENT CARD",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7CEF7F98-E51F-4199-9A89-EBC3B8934330",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

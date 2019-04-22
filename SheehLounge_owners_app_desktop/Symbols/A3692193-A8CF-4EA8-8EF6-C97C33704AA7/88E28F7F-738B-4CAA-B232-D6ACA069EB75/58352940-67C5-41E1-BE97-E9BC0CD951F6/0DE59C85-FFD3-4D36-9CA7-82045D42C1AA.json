@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0DE59C85-FFD3-4D36-9CA7-82045D42C1AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F9C056BF-0F1E-4F64-8A80-13B21AA9E916",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B349C385-0365-4200-B71B-7F8BFFC143FF",
+    "height": 36,
+    "width": 87,
+    "x": 209,
+    "y": 349
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn/BUY",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8BCAC0E8-F9F3-4101-9CA9-7BCAE4DE31D3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2A8299F7-3C81-4059-9BF3-A03CE95E653C",
+  "verticalSpacing": 0
+}

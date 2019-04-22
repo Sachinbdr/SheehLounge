@@ -1,0 +1,269 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2784313725490196,
+          "green": 0.3607843137254902,
+          "red": 1
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.01371092002439855,
+          "green": 0.6965671037981606,
+          "red": 0.9870357789855072
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9467844202898551,
+          "green": 0.5481575366131151,
+          "red": 0.01670583790374254
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6687613224637681,
+          "green": 0.5972023595724226,
+          "red": 0.5303323162533277
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3019607843137255,
+          "green": 0.3764705882352941,
+          "red": 0.996078431372549
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2392156862745098,
+          "green": 0.2470588235294118,
+          "red": 1
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9098039215686274,
+          "green": 0.9098039215686274,
+          "red": 0.9098039215686274
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3556951992753623,
+          "green": 0.2603732236158978,
+          "red": 0.263914468341009
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2357053894927536,
+          "green": 0.1650656340441631,
+          "red": 0.1676899256582934
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6233865489130435,
+          "green": 0.5596056451335956,
+          "red": 0.5000040015891146
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5269191576086957,
+          "green": 0.470786756120657,
+          "red": 0.4183324447745104
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7544723731884058,
+          "green": 0.7086338289192202,
+          "red": 0.6657988671322684
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9661741394927537,
+          "green": 0.9661741394927537,
+          "red": 0.9661741394927537
+        }
+      }
+    ],
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2784313725490196,
+        "green": 0.3607843137254902,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.01371092002439855,
+        "green": 0.6965671037981606,
+        "red": 0.9870357789855072
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9467844202898551,
+        "green": 0.5481575366131151,
+        "red": 0.01670583790374254
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6687613224637681,
+        "green": 0.5972023595724226,
+        "red": 0.5303323162533277
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3019607843137255,
+        "green": 0.3764705882352941,
+        "red": 0.996078431372549
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2392156862745098,
+        "green": 0.2470588235294118,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9098039215686274,
+        "green": 0.9098039215686274,
+        "red": 0.9098039215686274
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3556951992753623,
+        "green": 0.2603732236158978,
+        "red": 0.263914468341009
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2357053894927536,
+        "green": 0.1650656340441631,
+        "red": 0.1676899256582934
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6233865489130435,
+        "green": 0.5596056451335956,
+        "red": 0.5000040015891146
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5269191576086957,
+        "green": 0.470786756120657,
+        "red": 0.4183324447745104
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7544723731884058,
+        "green": 0.7086338289192202,
+        "red": 0.6657988671322684
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9661741394927537,
+        "green": 0.9661741394927537,
+        "red": 0.9661741394927537
+      }
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 1,
+  "do_objectID": "002D397E-12C8-4AF3-8170-0DF745CD879B",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "53.1",
+    "build": 72631,
+    "version": 116
+  },
+  "pages": [
+    "DESKTOP APP",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

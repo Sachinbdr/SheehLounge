@@ -1,0 +1,117 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8B26CA84-97B2-4646-AC0B-4C2DB7E6980E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF7C7F4F-7443-4270-9210-35920A95BE51",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1D3A9E03-B068-42A1-9B2A-CC41190B17C4",
+    "height": 19.80833519724178,
+    "width": 19.8118456832689,
+    "x": 0,
+    "y": 2.443620847482384
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6260E716-35B7-4512-B27B-B634768E85D3"
+    },
+    {
+      "class": "shapePath",
+      "id": "61BECFD3-E978-4BD6-A7B1-A256C4D1E8CB"
+    }
+  ],
+  "name": "Bell icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "DBA14B5E-FC69-4071-B7DB-7E84D91B0A8D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 8.08703932846069,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "A9237976-4643-4AAE-B62D-9A9A33F8731A",
+      "isEnabled": false,
+      "lineCapStyle": 1,
+      "lineJoinStyle": 1
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7544723731884058,
+          "green": 0.7086338289192202,
+          "red": 0.6657988671322684
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1.871999931335449
+      }
+    ],
+    "do_objectID": "F0FCCD95-24AC-4328-8362-BA38ABD0A1F0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 3.8016,
+            "enabled": 1,
+            "modelID": "constraint_8d8ffca8-34b3-4e78-b812-9e96b691df96",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 3.802274
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_6a733133-cc29-41f3-b80e-9df656535c0c",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

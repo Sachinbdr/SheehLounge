@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "90BC8A3B-8079-47C9-9A50-7F66A697231B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "57B4B443-D41F-4D89-94FE-F7722B30C997",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "EEC31CE7-A86E-49D7-82FA-E4005597D84D",
+    "height": 45,
+    "width": 45,
+    "x": 298,
+    "y": 422
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "AA35CF67-FFC0-4457-8A81-FB1DB66DEED2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C00346CB-3FEE-4810-8851-3ADFF9F09264"
+    }
+  ],
+  "name": "Edit",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "21F7ABC7-DBD2-438E-B4F3-1241D927E0D4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

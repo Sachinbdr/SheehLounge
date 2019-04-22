@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3DC44E2F-BE5F-4BFB-B51B-345D92F49E2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4925DFA0-F576-4055-B316-A7E7BDD14074",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "39F71D26-B236-49AE-B9FA-61F512B20FAA",
+    "height": 35,
+    "width": 35,
+    "x": 118.0000000000009,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "CF045028-F36C-4DCF-9D0A-4F07EA95E3EF"
+    },
+    {
+      "class": "bitmap",
+      "id": "71E4A7F3-6CB4-4D7C-89B1-4AEA7B973F0E"
+    }
+  ],
+  "name": "# PROFILE PICTURE",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42AE6929-7968-4A95-9667-B119504054D5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

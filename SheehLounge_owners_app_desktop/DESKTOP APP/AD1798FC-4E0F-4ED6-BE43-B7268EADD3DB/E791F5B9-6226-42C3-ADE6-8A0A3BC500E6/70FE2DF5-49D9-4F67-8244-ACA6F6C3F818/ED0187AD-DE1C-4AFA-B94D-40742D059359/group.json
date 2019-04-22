@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ED0187AD-DE1C-4AFA-B94D-40742D059359",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B4186C66-BF91-4050-B7B0-EC2C7EDB35FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "806F8A7E-127C-4D86-B06B-08CA05A1DCD2",
+    "height": 33,
+    "width": 37,
+    "x": 80,
+    "y": 45
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3ED56077-CC1B-45EE-B9B1-808C764D0A83"
+    },
+    {
+      "class": "group",
+      "id": "A014F298-0B9B-461F-AC98-A947AFEE30BF"
+    }
+  ],
+  "name": "bar-chart",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B5A709B4-FB59-4DBF-988E-4718C8CD02CC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
