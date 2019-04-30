@@ -31,11 +31,11 @@
           "textStyleVerticalAlignmentKey": 0,
           "underlineStyle": 0
         },
-        "length": 9,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "User name"
+    "string": "User id"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -57,11 +57,11 @@
     "constrainProportions": false,
     "do_objectID": "927DC433-EAE6-4F59-A6C6-C5EEC427CB10",
     "height": 75,
-    "width": 75,
+    "width": 50,
     "x": 22,
     "y": 0
   },
-  "glyphBounds": "{{0, 32}, {74, 11}}",
+  "glyphBounds": "{{0, 31}, {48, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -70,7 +70,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "User name",
+  "name": "User id",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
